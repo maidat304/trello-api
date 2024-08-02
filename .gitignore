@@ -1,0 +1,17 @@
+node_modules
+yarn.lock
+.DS_Store
+.env
+.vscode
+.idea
+.idea/
+.idea/*
+.idea/**/*
+.idea/**/**/*
+.idea/**/**/**/*
+.idea/**/**/**/**/*
+.idea/**/**/**/**/**/*
+.idea/**/**/**/**/**/**/*
+.idea/**/**/**/**/**/**/**/*
+.idea/**/**/**/**/**/**/**/**/*
+.idea/**/**
